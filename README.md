@@ -1,6 +1,6 @@
 # SuffixTree: Build A Trie For Exact Matching
 
-"__Repository Description:__
+__Repository Description:__
 <br/>
 This repository stores the work as part of the Data Structures and Algorithms specialization courses by University California of San Diego. Course URL: https://www.coursera.org/specializations/data-structures-algorithms. Code in this repository is written by myself, Kristen Phan.
 <br/>
@@ -66,6 +66,7 @@ integers 1 through 𝑛−1 in any order you like. Each edge of the adjacency li
 encoded by a triple: the first two members of the triple must be the integers 𝑖, 𝑗 labeling the initial and
 terminal nodes of the edge, respectively; the third member of the triple must be the symbol 𝑐 labeling
 the edge; output each such triple in the format u->v:c (with no spaces) on a separate line.
+<br/>
 <br/>
 __Disclaimer__: 
 <br/>

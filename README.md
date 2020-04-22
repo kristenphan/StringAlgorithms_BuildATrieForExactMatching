@@ -1,4 +1,4 @@
-# SuffixTree: Build A Trie For Exact Matching
+# Suffix Tree: Build A Trie from a Collection of Patterns for Exact Matching
 
 __Repository Description:__
 <br/>
